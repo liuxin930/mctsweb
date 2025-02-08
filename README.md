@@ -20,7 +20,7 @@
 2. [QQ群规](https://nbxin.com/archives/8.html)
 3. [新手教学](https://nbxin.com/archives/23.html)
 4. [常用指令](https://nbxin.com/archives/28.html)
-5. [反作弊说明](https://mcts.cc/)
+5. [反作弊封禁查询系统](https://mcts.cc/)
 
 ## ✅ 白名单申请流程
 ### 重要提醒（必读三遍！）
