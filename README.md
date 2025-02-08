@@ -18,7 +18,7 @@
 ## 📜 规则与资源
 1. [服务器规则](https://nbxin.com/archives/11.html)
 2. [QQ群规](https://nbxin.com/archives/8.html)
-3. [新手教学](https://nbxin.com/archives/23.html)
+3. [0️⃣基础新手教学](https://nbxin.com/archives/23.html)
 4. [常用指令](https://nbxin.com/archives/28.html)
 5. [反作弊封禁查询系统](https://mcts.cc/)
 
